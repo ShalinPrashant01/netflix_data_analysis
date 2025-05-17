@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore VS Code backup files
+.vscode/
+*.ipynb_checkpoints
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# git remote add origin https://github.com/ShalinPrashant01/netflix_data_analysis.git
+# git branch -M main
+# git push -u origin main
+
+git config --global user.name "ShalinPrashant01"
+git config --global user.email "shalintannu02@gmail.com"
+
